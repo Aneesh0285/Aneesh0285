@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Aneesh0285
+- 👀 I’m interested in accounts related jobs...
+- 🌱 I’m currently learning bachelors of commerce(final year) ...
+- 📫 email me on anee0285@gmail.com ...
+
+<!---
+Aneesh0285/Aneesh0285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
